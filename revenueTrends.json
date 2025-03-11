@@ -1,0 +1,170 @@
+[
+  {
+    "quarter": "Q1-2022",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 82.3
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 153.8
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 95.7
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 68.9
+      }
+    ]
+  },
+  {
+    "quarter": "Q2-2022",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 75.6
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 161.2
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 105.3
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 72.1
+      }
+    ]
+  },
+  {
+    "quarter": "Q3-2022",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 91.2
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 172.5
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 98.5
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 65.4
+      }
+    ]
+  },
+  {
+    "quarter": "Q4-2022",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 68.5
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 185.9
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 112.8
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 78.6
+      }
+    ]
+  },
+  {
+    "quarter": "Q1-2023",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 79.9
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 192.3
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 101.6
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 63.2
+      }
+    ]
+  },
+  {
+    "quarter": "Q2-2023",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 85.1
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 201.7
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 118.4
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 75.9
+      }
+    ]
+  },
+  {
+    "quarter": "Q3-2023",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 71.4
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 215.2
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 92.9
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 69.7
+      }
+    ]
+  },
+  {
+    "quarter": "Q4-2023",
+    "companies": [
+      {
+        "companyName": "Alpha Corp",
+        "revenue": 93.7
+      },
+      {
+        "companyName": "Beta Inc",
+        "revenue": 228.6
+      },
+      {
+        "companyName": "Gamma LLC",
+        "revenue": 107.2
+      },
+      {
+        "companyName": "Delta Co",
+        "revenue": 81.3
+      }
+    ]
+  }
+]
